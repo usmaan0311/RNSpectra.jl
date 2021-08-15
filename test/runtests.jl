@@ -11,13 +11,6 @@ using DataFrames,DelimitedFiles,Glob
     En = 1240*λ.^-1
     t=798e-7 # nm
     α = log(10)*Abn/t
-    ElliottToyozawa(α,En)
+    RNSpectra.toyozawa(α,En)
 
-    cf=ElliottToyozawa(α,En)[4]
-
-    
-    
-
-
-    
 end
