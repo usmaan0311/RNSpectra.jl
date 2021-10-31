@@ -1,0 +1,12 @@
+# YAML 1.2
+---
+authors: 
+  -
+    affiliation: "Centre for Nano Science and Engineering, Indian Institute of Science"
+    family-names: Muazzam
+    given-names: "Usman Ul"
+    orcid: "https://orcid.org/0000-0002-5900-2532"
+cff-version: "1.1.0"
+message: "If you use this code, please cite it using this metadata."
+repository-code: "https://github.com/usmaan0311/RNSpectra.jl"
+...
